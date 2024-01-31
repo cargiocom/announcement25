@@ -1,2 +1,10 @@
-# announcement25
-Cargio announcement #25
+<img src="https://github.com/cargiocom/announcement25/blob/89387e4e95a0b18b926a5002c2cb3a451973030f/img/banner.png" alt="banner"/>
+<br>
+<h1>January 2024 has proven to be a significant month, setting the stage for potential growth and innovation in the crypto space.</h1>
+<p>The market experienced an impressive upswing in December 2023, finishing the year with a notable 15.2% rise in overall market capitalization.</p>
+<p>An early January breakout propelled the total market capitalization to a peak of $1.8 trillion, marking a one-year high. The cryptocurrency market unfolds as a intricate and dynamic environment, characterized by intriguing possibilities for future developments.</p>
+<p>Cryptocurrency markets conclude before the onset of February markets. Investors scrutinized trends in the crypto market, assessing avenues of development and marketing, with evaluations suggesting a vibrant and influential period. Furthermore, the temporary upswings in early trading, attributed to the Securities and Exchange Commission's endorsement of spot trading, had an impact on the overall market dynamics.</p>
+<h2>- Crypto investors shift focus to Bitcoin halving after the market correction brought about by Bitcoin ETFs.</h2>
+<p>Crypto investors are anticipating record-breaking prices for BTC during the upcoming halving. According to a market survey involving nearly 10,000 cryptocurrency investors, the optimism surrounding new all-time highs for Bitcoin is fueled by the fourth-ever Bitcoin halving.</p>
+<p>Cargio conducted a survey to gauge investor confidence in the eagerly awaited halving and its potential impact on Bitcoin's mining reward. The results of the study reflect a strong belief among investors in the significance of this event.</p>
+<p>The research project gathered data from over 9,500 participants between November and December 2023, and the anonymized data was used for analysis. A substantial 84% of the participants express expectations for Bitcoin to surpass its previous peak of $69,000, which was established during the bull market in 2021. Regionally, respondents from East Europe displayed the lowest level of optimism, with 75% of them anticipating the possibility of Bitcoin breaking its previous record.</p>
